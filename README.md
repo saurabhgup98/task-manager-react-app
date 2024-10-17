@@ -1,2 +1,2 @@
 # task-manager-react-app
-Task Manager responsivefrontend application using the react.
+Task Manager responsive frontend application using the react.
